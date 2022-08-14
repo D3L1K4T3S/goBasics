@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-//Кастомная ошибка
+//Собственная ошибка
 
 type AppErr struct {
 	Message string

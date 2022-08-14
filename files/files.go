@@ -7,8 +7,6 @@ import (
 	"os/exec"
 )
 
-//ls -lah - посмотреть права доступа у файлов 0777
-
 func files() {
 	writeTiFile()
 	AppendFile()

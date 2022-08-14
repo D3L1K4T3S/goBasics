@@ -1,10 +1,5 @@
 package json
 
-//Докачать gjson
-//Посмотреть gotify, extremecode канал на ютубу
-//Скачать Как писать кодогенераторы в Go. Дмитрий Смотров
-//Команда curl
-
 import (
 	"encoding/json"
 	"fmt"
