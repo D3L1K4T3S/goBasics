@@ -1,0 +1,9 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "dependencies": {
+    "Name": "Egor,
+    "Age": 20,
+    "IsBlocked": false
+  }
+}
